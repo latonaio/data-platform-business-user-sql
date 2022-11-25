@@ -10,6 +10,7 @@ https://api.XXXXXXXX.com/api/OP_API_XXXXXXX_XXX/overview
 
 data-platform-business-user-sql には、sqlの設定ファイルとして、以下のファイルが含まれています。  
 
+* data-platform-business-user-sql-business-partner-data.sql（データ連携基盤 ビジネスユーザ - ビジネスパートナデータ）
 * data-platform-business-user-sql-business-user-data.sql（データ連携基盤 ビジネスユーザ - ビジネスユーザデータ）
 
 ## MySQLのセットアップ / Kubernetesの設定 / SQLテーブルの作成方法
